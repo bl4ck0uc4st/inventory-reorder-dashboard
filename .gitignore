@@ -1,0 +1,15 @@
+# Node modules
+node_modules
+
+# Env files
+.env
+.env.local
+
+# Database
+server/data.sqlite
+
+# Build output
+dist
+
+# Mac files
+.DS_Store
